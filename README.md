@@ -18,9 +18,9 @@ Go to ./lib/utils and run `python setup.py build_ext --inplace`
 
 
 
-7. Run train.py
+8. Run train.py
 
-8. Run demo.py to test accuracy
+9. Run demo.py to test accuracy
 
 
 
