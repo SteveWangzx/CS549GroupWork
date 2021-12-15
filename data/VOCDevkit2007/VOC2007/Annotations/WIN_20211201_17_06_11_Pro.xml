@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>WIN_20211201_17_06_11_Pro.jpg</filename>
+	<path>D:\cs549GroupProject\Faster-RCNN-TensorFlow-Python3\data\VOCDevkit2007\VOC2007\JPEGImages\WIN_20211201_17_06_11_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>285</ymin>
+			<xmax>772</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>
